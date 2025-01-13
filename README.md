@@ -3,3 +3,8 @@ This repository contains experiments with various Generative Adversarial Network
  
 ## DCGAN
 DCGAN
+DCGAN is a popular GAN architecture that utilizes deep convolutional layers for both the generator and discriminator networks. It was designed to improve the stability of GAN training and produce higher-quality outputs.
+
+![DCGAN Output](https://github.com/almosenja/gan-crack/blob/main/figures/DCGAN_output.gif)
+
+*Figure 1: Progression of synthetic crack generation during DCGAN training.*
